@@ -10,18 +10,15 @@
 
  A. Pengujian WSL
 
-
 Dokumentasi pengujian WSL.
 ![Pengujian WSL](Pengujian%201.jpeg)
 
  B. Software Pendukung
 
-
 Dokumentasi penginstalan Ubuntu dari Microsoft Store.
 ![Software Pendukung](Software%20Pendukung.jpeg)
 
  C. Pengujian Python
-
 
 Membuat script sederhana "test.py" memakai Python 3.
 ![Pengujian Python](Pengujian%20Python.jpeg)
